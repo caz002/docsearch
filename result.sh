@@ -1,0 +1,1 @@
+grep "base pair" $1 > resulting.txt
